@@ -1,13 +1,12 @@
 // ==UserScript==
-// @name         Nitro Type Car Hack_garage - New
-// @namespace    http://theprabhakar.in/
+// @name         Nitro Type Free Car Hack
 // @version      3.0
 // @description  Change cars on Nitrotype.com
-// @author       Prabhakar Rai
+// @author       sanicaiden
 // @match        https://www.nitrotype.com/garage
-// @updateURL    https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/garage.user.js
-// @downloadURL  https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/garage.user.js
-// @icon         https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/icon.jpg
+// @updateURL    https://github.com/sanicaiden/sanic/blob/master/dealership.user.js
+// @downloadURL  https://github.com/sanicaiden/sanic/blob/master/dealership.user.js
+// @icon         hhttps://github.com/sanicaiden/sanic/blob/master/icon.jpg
 // @grant unsafeWindow
 // @grant GM_addStyle
 // @grant GM_getValue
